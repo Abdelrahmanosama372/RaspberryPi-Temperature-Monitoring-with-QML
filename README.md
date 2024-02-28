@@ -34,7 +34,7 @@ Raspberry Pi Temperature Monitoring with QML is a comprehensive project that all
 2. **Project Setup:** 
    - Clone the project repository to your PC.
     ```bash
-    git clone
+    git clone https://github.com/Abdelrahmanosama372/RaspberryPi-Temperature-Monitoring-with-QML.git
     ```
    - in the src directory run `cmake` to compile the project code.
    - copy the executable `monitorsys` from the `build` directory to the Raspberry Pi and run it
