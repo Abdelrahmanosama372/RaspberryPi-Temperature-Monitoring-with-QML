@@ -1,6 +1,7 @@
 # Raspberry Pi Temperature Monitoring with QML
 
 Raspberry Pi Temperature Monitoring with QML is a comprehensive project that allows you to monitor and display humidity and temperature data from a DHT11 sensor connected to your Raspberry Pi. The project consists of three main components: a C++ application running on the Raspberry Pi to read sensor data, blink a led ofter data reading and update a CSV file, a Bash script to send the CSV file to your PC at regular intervals, and a QML-based GUI on your PC to visualize and interact with the sensor data.
+
 ![app photo](app.png)
 
 ## Features
