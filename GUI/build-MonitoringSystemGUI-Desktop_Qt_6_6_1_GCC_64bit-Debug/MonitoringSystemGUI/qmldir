@@ -1,0 +1,7 @@
+module MonitoringSystemGUI
+typeinfo appMonitoringSystemGUI.qmltypes
+prefer :/MonitoringSystemGUI/
+Main 1.0 Main.qml
+CustomDial 1.0 CustomDial.qml
+CustomFrame 1.0 CustomFrame.qml
+

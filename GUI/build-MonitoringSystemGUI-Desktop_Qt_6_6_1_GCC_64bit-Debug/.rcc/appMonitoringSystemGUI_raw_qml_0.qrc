@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/MonitoringSystemGUI/">
+    <file alias="Main.qml">/home/abdelrahman/E/github-repos/RaspberryPi-Temperature-Monitoring-with-QML/GUI/MonitoringSystemGUI/Main.qml</file>
+    <file alias="CustomDial.qml">/home/abdelrahman/E/github-repos/RaspberryPi-Temperature-Monitoring-with-QML/GUI/MonitoringSystemGUI/CustomDial.qml</file>
+    <file alias="CustomFrame.qml">/home/abdelrahman/E/github-repos/RaspberryPi-Temperature-Monitoring-with-QML/GUI/MonitoringSystemGUI/CustomFrame.qml</file>
+  </qresource>
+</RCC>
+

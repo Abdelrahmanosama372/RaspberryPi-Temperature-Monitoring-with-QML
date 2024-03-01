@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-8ddba76b9af080bf07ab.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MonitoringSystemGUI",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-b8bf43959d89afddb37a.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-611487f2cc820ee29fb0.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-256f15e47a95c90727fe.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-78bb2741c5da6eddb8fd.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMonitoringSystemGUI::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMonitoringSystemGUI-Debug-646f5dc07a7a1a97c0f5.json",
+					"name" : "appMonitoringSystemGUI",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMonitoringSystemGUI_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMonitoringSystemGUI_autogen-Debug-fd2dc7b37215fbabbb38.json",
+					"name" : "appMonitoringSystemGUI_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMonitoringSystemGUI_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMonitoringSystemGUI_autogen_timestamp_deps-Debug-ff2191ce40ffd99cc5d4.json",
+					"name" : "appMonitoringSystemGUI_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMonitoringSystemGUI_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMonitoringSystemGUI_qmlimportscan-Debug-d2c30b6b1804a7e31338.json",
+					"name" : "appMonitoringSystemGUI_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMonitoringSystemGUI_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMonitoringSystemGUI_qmllint-Debug-26c76f2a6fc358baa39b.json",
+					"name" : "appMonitoringSystemGUI_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMonitoringSystemGUI_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMonitoringSystemGUI_qmllint_json-Debug-582ceb1fc4d9108ad5fd.json",
+					"name" : "appMonitoringSystemGUI_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMonitoringSystemGUI_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMonitoringSystemGUI_qmllint_module-Debug-a8fd5c9225bc1684e2fe.json",
+					"name" : "appMonitoringSystemGUI_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMonitoringSystemGUI_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMonitoringSystemGUI_qmltyperegistration-Debug-5a44d8f534f50202ff2e.json",
+					"name" : "appMonitoringSystemGUI_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMonitoringSystemGUI_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMonitoringSystemGUI_tooling-Debug-2be51915ccb14aa198bd.json",
+					"name" : "appMonitoringSystemGUI_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/abdelrahman/E/github-repos/RaspberryPi-Temperature-Monitoring-with-QML/GUI/build-MonitoringSystemGUI-Desktop_Qt_6_6_1_GCC_64bit-Debug",
+		"source" : "/home/abdelrahman/E/github-repos/RaspberryPi-Temperature-Monitoring-with-QML/GUI/MonitoringSystemGUI"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

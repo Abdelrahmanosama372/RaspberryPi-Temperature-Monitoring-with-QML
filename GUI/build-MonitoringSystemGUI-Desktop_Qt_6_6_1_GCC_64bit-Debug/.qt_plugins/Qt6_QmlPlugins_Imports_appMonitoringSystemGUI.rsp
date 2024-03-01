@@ -1,0 +1,14 @@
+-rootPath
+/home/abdelrahman/E/github-repos/RaspberryPi-Temperature-Monitoring-with-QML/GUI/MonitoringSystemGUI
+-cmake-output
+-output-file
+/home/abdelrahman/E/github-repos/RaspberryPi-Temperature-Monitoring-with-QML/GUI/build-MonitoringSystemGUI-Desktop_Qt_6_6_1_GCC_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appMonitoringSystemGUI.cmake
+-importPath
+/home/abdelrahman/E/github-repos/RaspberryPi-Temperature-Monitoring-with-QML/GUI/build-MonitoringSystemGUI-Desktop_Qt_6_6_1_GCC_64bit-Debug/MonitoringSystemGUI
+-importPath
+/home/abdelrahman/E/github-repos/RaspberryPi-Temperature-Monitoring-with-QML/GUI/build-MonitoringSystemGUI-Desktop_Qt_6_6_1_GCC_64bit-Debug
+-importPath
+/opt/Qt/6.6.1/gcc_64/./qml
+-qrcFiles
+/home/abdelrahman/E/github-repos/RaspberryPi-Temperature-Monitoring-with-QML/GUI/build-MonitoringSystemGUI-Desktop_Qt_6_6_1_GCC_64bit-Debug/.rcc/qmake_MonitoringSystemGUI.qrc
+/home/abdelrahman/E/github-repos/RaspberryPi-Temperature-Monitoring-with-QML/GUI/build-MonitoringSystemGUI-Desktop_Qt_6_6_1_GCC_64bit-Debug/.rcc/appMonitoringSystemGUI_raw_qml_0.qrc

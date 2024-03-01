@@ -1,0 +1,68 @@
+[
+    {
+        "classes": [
+            {
+                "className": "MonitorSystemDisplay",
+                "object": true,
+                "properties": [
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 0,
+                        "name": "currentTemp",
+                        "notify": "CurrentTempChanged",
+                        "read": "getTemperatureStr",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QString",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 1,
+                        "name": "currentHumid",
+                        "notify": "CurrentHumidChanged",
+                        "read": "getHumidityStr",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QString",
+                        "user": false
+                    }
+                ],
+                "qualifiedClassName": "MonitorSystemDisplay",
+                "signals": [
+                    {
+                        "access": "public",
+                        "name": "CurrentTempChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "CurrentHumidChanged",
+                        "returnType": "void"
+                    }
+                ],
+                "slots": [
+                    {
+                        "access": "private",
+                        "name": "readSensorData",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "monitorsystemdisplay.h",
+        "outputRevision": 68
+    }
+]

@@ -1,0 +1,9 @@
+set(qml_import_scanner_imports_count 7)
+set(qml_import_scanner_import_0 "CLASSNAME;QtQuick2Plugin;LINKTARGET;Qt6::qtquick2plugin;NAME;QtQuick;PATH;/opt/Qt/6.6.1/gcc_64/qml/QtQuick;PLUGIN;qtquick2plugin;PLUGINISOPTIONAL;;PREFER;:/qt-project.org/imports/QtQuick/;RELATIVEPATH;QtQuick;TYPE;module;")
+set(qml_import_scanner_import_1 "CLASSNAME;QtQmlMetaPlugin;LINKTARGET;Qt6::QmlMeta;NAME;QtQml;PATH;/opt/Qt/6.6.1/gcc_64/qml/QtQml;PLUGIN;qmlmetaplugin;PLUGINISOPTIONAL;;PREFER;:/qt-project.org/imports/QtQml/;RELATIVEPATH;QtQml;TYPE;module;")
+set(qml_import_scanner_import_2 "CLASSNAME;QtQmlPlugin;LINKTARGET;Qt6::qmlplugin;NAME;QtQml.Base;PATH;/opt/Qt/6.6.1/gcc_64/qml/QtQml/Base;PLUGIN;qmlplugin;PLUGINISOPTIONAL;;PREFER;:/qt-project.org/imports/QtQml/Base/;RELATIVEPATH;QtQml/Base;TYPE;module;")
+set(qml_import_scanner_import_3 "CLASSNAME;QtQmlModelsPlugin;LINKTARGET;Qt6::modelsplugin;NAME;QtQml.Models;PATH;/opt/Qt/6.6.1/gcc_64/qml/QtQml/Models;PLUGIN;modelsplugin;PLUGINISOPTIONAL;;PREFER;:/qt-project.org/imports/QtQml/Models/;RELATIVEPATH;QtQml/Models;TYPE;module;")
+set(qml_import_scanner_import_4 "CLASSNAME;QtQmlWorkerScriptPlugin;LINKTARGET;Qt6::workerscriptplugin;NAME;QtQml.WorkerScript;PATH;/opt/Qt/6.6.1/gcc_64/qml/QtQml/WorkerScript;PLUGIN;workerscriptplugin;PLUGINISOPTIONAL;;PREFER;:/qt-project.org/imports/QtQml/WorkerScript/;RELATIVEPATH;QtQml/WorkerScript;TYPE;module;")
+set(qml_import_scanner_import_5 "CLASSNAME;QtQuickEffectsPlugin;LINKTARGET;Qt6::effectsplugin;NAME;QtQuick.Effects;PATH;/opt/Qt/6.6.1/gcc_64/qml/QtQuick/Effects;PLUGIN;effectsplugin;PLUGINISOPTIONAL;;PREFER;:/qt-project.org/imports/QtQuick/Effects/;RELATIVEPATH;QtQuick/Effects;TYPE;module;")
+set(qml_import_scanner_import_6 "CLASSNAME;QtChartsQml2Plugin;LINKTARGET;Qt6::qtchartsqml2;NAME;QtCharts;PATH;/opt/Qt/6.6.1/gcc_64/qml/QtCharts;PLUGIN;qtchartsqml2plugin;PLUGINISOPTIONAL;;PREFER;:/qt-project.org/imports/QtCharts/;RELATIVEPATH;QtCharts;TYPE;module;")
+

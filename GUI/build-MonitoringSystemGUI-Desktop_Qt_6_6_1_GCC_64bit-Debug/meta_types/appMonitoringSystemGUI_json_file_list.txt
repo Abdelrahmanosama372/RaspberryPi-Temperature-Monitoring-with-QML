@@ -1,0 +1,2 @@
+/home/abdelrahman/E/github-repos/RaspberryPi-Temperature-Monitoring-with-QML/GUI/build-MonitoringSystemGUI-Desktop_Qt_6_6_1_GCC_64bit-Debug/appMonitoringSystemGUI_autogen/include/../EWIEGA46WW/moc_monitorsystemdisplay.cpp.json
+/home/abdelrahman/E/github-repos/RaspberryPi-Temperature-Monitoring-with-QML/GUI/build-MonitoringSystemGUI-Desktop_Qt_6_6_1_GCC_64bit-Debug/appMonitoringSystemGUI_autogen/include/monitorsystemdisplay.moc.json

@@ -1,6 +1,7 @@
 # Raspberry Pi Temperature Monitoring with QML
 
 Raspberry Pi Temperature Monitoring with QML is a comprehensive project that allows you to monitor and display humidity and temperature data from a DHT11 sensor connected to your Raspberry Pi. The project consists of three main components: a C++ application running on the Raspberry Pi to read sensor data, blink a led ofter data reading and update a CSV file, a Bash script to send the CSV file to your PC at regular intervals, and a QML-based GUI on your PC to visualize and interact with the sensor data.
+![app photo](app.png)
 
 ## Features
 
@@ -31,21 +32,23 @@ Raspberry Pi Temperature Monitoring with QML is a comprehensive project that all
 ## Setup
 
 1. **Hardware Setup:** Connect the DHT11 sensor and LED to the GPIO pins of your Raspberry Pi.
-2. **Project Setup:** 
+2. **Configuration:** 
+   - Modify the led and sensor files paths to match your setup in `monitoring_system.hpp`
+   - Modify the C++ application and Bash script as needed to match your setup and preferences.
+   - Modify the bash script with you Raspberry Pi name.
+  
+3. **Project Setup:** 
    - Clone the project repository to your PC.
     ```bash
     git clone https://github.com/Abdelrahmanosama372/RaspberryPi-Temperature-Monitoring-with-QML.git
     ```
    - in the src directory run `cmake` to compile the project code.
    - copy the executable `monitorsys` from the `build` directory to the Raspberry Pi and run it
-3. **Configuration:** 
-   - Modify the led and sensor files paths to match your setup in `monitoring_system.hpp`
-   - Modify the C++ application and Bash script as needed to match your setup and preferences.
 
 ## Usage
 
 1. **Start C++ Application:** Run the C++ application on your Raspberry Pi to read sensor data and update the CSV file.
-2. **Run Bash Script:** Execute the Bash script on your Raspberry Pi to send the CSV file to your PC at regular intervals.
+2. **Run Bash Script:** Execute the Bash script on your PC to get the CSV file from the Raspberry Pi at regular intervals.
 3. **Launch QML GUI:** Open the QML-based GUI on your PC to visualize and interact with the sensor data in real-time.
 
 ## Contributing
